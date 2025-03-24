@@ -17,31 +17,31 @@ body {
   }
   
   .w {
-    background-image: url("pictures/tom1.png");
+    background-image: url("/pictures/tom1.png");
   }
   
   .a {
-    background-image: url("pictures/tom2.png");
+    background-image: url("/pictures/tom2.png");
   }
   
   .s {
-    background-image: url("pictures/tom3.png");
+    background-image: url("/pictures/tom3.png");
   }
   
   .d {
-    background-image: url("pictures/tom4.png");
+    background-image: url("/pictures/tom4.png");
   }
   
   .j {
-    background-image: url("pictures/snare.png");
+    background-image: url("/pictures/snare.png");
   }
   
   .k {
-    background-image: url("pictures/crash.png");
+    background-image: url("/pictures/crash.png");
   }
   
   .l {
-    background-image: url("pictures/kick.png");
+    background-image: url("/pictures/kick.png");
   }
   
   .set {
